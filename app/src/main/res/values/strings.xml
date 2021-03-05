@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string-array name="guitarName">
+        <item>Belucci BC3820 WH</item>
+        <item>YAMAHA C40 Black</item>
+        <item>Flight F-230C WR</item>
+        <item>Xiaomi Kickgoods Populele 2 Black</item>
+    </string-array>
+    <integer-array name="price">
+        <item>3099</item>
+        <item>12542</item>
+        <item>8520</item>
+        <item>9990</item>
+    </integer-array>
+    <string-array name="pics">
+        <item>akusticheskaya_gitara_belucci_bc3820_wh_1200392_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
